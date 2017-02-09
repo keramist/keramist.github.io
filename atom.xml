@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>任华军的世界</title>
-  <subtitle>任华军的世界  Ryan&#39;s World</subtitle>
+  <subtitle>任华军的世界      -------------------过去心不可得，现在心不可得，未来心不可得</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.renhuajun.com/"/>
@@ -9,7 +9,7 @@
   <id>http://www.renhuajun.com/</id>
   
   <author>
-    <name>Ryan&#39;s World</name>
+    <name>Keramist.R</name>
     
   </author>
   
